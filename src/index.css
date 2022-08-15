@@ -91,6 +91,10 @@ ul {
   opacity: 1;
 }
 
+.tile-img {
+  width: 100%
+}
+
 .minBackgroundSneak {
   position: absolute;
   width: inherit;
